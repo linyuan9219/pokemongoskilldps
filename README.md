@@ -1,6 +1,7 @@
 # pokemongoskilldps
 pokemon go fast skill dps list
 
+
 skill name     DPS     power     duration(ms)
 PSYCHOCUT      26.315  15        570
 MUDSHOT        21.818  12        550
